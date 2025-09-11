@@ -71,9 +71,9 @@ The goal is to ensure students learn the syntax of JUnit testing, as well as how
 **Starter Code:** Request starter code by contacting Prof. McBurney - redacted because the assignment has a partial solution to Homework 1 -->
 **Core skills:** Polymorphism, building from an existing design paradigm, changing existing code, Java Streams
 
-This assignment uses the same Apportionment problem as Homework 1, and revisits Homework 1 Part 2, while adding additional features and changed requirements. In this assignment, students began with **my** implementation of Homework 1, rather than their own, which uses some design techniques and patterns taught in class. For most students, they find the design that I give them was easier to modify and understand than their own designs (of course this isn't universally true, but students who already had strong designs of their own were likely already knowledgeable of many of the topics in our design unit.)
+This assignment uses the same Apportionment problem as Homework 1 while adding additional features and changed requirements. In this assignment, students began with **my** implementation of Homework 1, rather than their own, which uses some design techniques and patterns taught in class. For most students, they find the design that I give them was easier to modify and understand than their own designs (of course this isn't universally true, but students who already had strong designs of their own were likely already knowledgeable of many of the topics in our design unit.)
 
-In this assignment, students reimplemented the features from Homework 1 Part 2 within my starter code base, then add additional features, including a third apportionment method and displaying states in either alphabetical order or in an alternative order. In particular, the existing code base also features use of Java `Stream`s to give practice using functional programming.
+In this assignment, students reimplemented some features from Homework 1 within my starter code base, then add additional features, including a third apportionment method and displaying states in either alphabetical order or in an alternative order. In particular, the existing code base also features use of Java `Stream`s to give practice using functional programming.
 
 #### Homework 4 - Mockito Testing and Refactoring
 
@@ -98,7 +98,7 @@ Finally, students implement the class `RegistrationImpl.java` using test-driven 
 **Starter Code** - Request starter code by contacting Prof. McBurney - redacted for the time being, but will be made public again at a later date. -->
 **Core Skills** - Using JSON-based web-services, using JDBC with a SQLite database.
 
-This assignment involves using an existing bus-routes webservice hosted by the University of Virginia. Students need to query that webservice to get information about bus-routes accessible to UVA students, and then store that information in a SQLite database. Students also must query that database for information like "What bus routes stop at Rice Hall"?
+This assignment involves using a bus-routes webservice previously hosted by the University of Virginia. Students need to query that webservice to get information about bus-routes accessible to UVA students, and then store that information in a SQLite database. Students also must query that database for information like "What bus routes stop at Rice Hall"?
 
 #### Homework 6 - "Final Project"
 
